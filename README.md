@@ -1,4 +1,4 @@
-# ge-programacao2022em
+# ge-programacao2022
 
 ## Olá :smile:
 
